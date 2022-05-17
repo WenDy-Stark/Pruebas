@@ -1,0 +1,118 @@
+body{
+  background-color:#F2F2F2;
+}
+
+.rectangulo1 {
+     width:100%;
+     height: 2ex;
+     background: #1dacd6;
+     position: fixed:top;
+  }
+
+header {
+  color: #585858;
+  background-color:#C2EDF3;
+  border-style: solid;
+  border-radius: 0 px;
+  text-align: center;
+  font-family: serif;
+position: relative;
+}
+
+imagen {
+  align-items: center;
+  position: fixed;
+}
+
+.nombre {
+  color:#1B98A9;
+  font-size: 18px;
+}
+
+.contacto {
+  color: #565656;
+  font-family: sans-serif;
+  background-color:#E0F2F7;
+}
+
+.infopersonal{
+  color: #565656;
+  font-family: Georgia;
+  background-color:#FAFAFA;
+}
+
+.perfil{
+  color: #565656;
+  font-family: Georgia;
+  background-color:#FAFAFA;
+}
+
+.aptitudes{
+  color: #565656;
+  font-family: Georgia;
+  background-color:#FAFAFA;
+}
+
+.resmprofesional{
+  color: #565656;
+  font-family: Georgia;
+  background-color:#FAFAFA;
+}
+
+.histlaboral{
+  color: #565656;
+  font-family: Georgia;
+  background-color:#FAFAFA;
+}
+
+    .FORMACION {
+      color:#088A85;
+      font-family: Georgia;
+      background-color:#FFFFFF;
+      font-style: normal;
+      font-family: serif;
+      }
+
+.formacion {
+  color: #565656;
+  font-family: Georgia;
+  background-color:#FAFAFA;
+}
+
+.IDIOMAS {
+  color:#088A85;
+  font-family: Georgia;
+  background-color:#FFFFFF;
+  font-style: normal;
+  font-family: serif;
+}
+
+table {
+  color:#0C8FBE;
+  font-family: Georgia;
+  font-size: 25px;
+  background-color:#FAFAFA;
+
+}
+
+.cursos{
+  color:#565656;
+  font-family: Georgia;
+  background-color:#FAFAFA;
+}
+
+    .SUBTITULOS {
+      color:#088A85;
+      font-family: Georgia;
+      background-color:#FFFFFF;
+      font-style: normal;
+      font-family: serif;
+      }
+
+.rectangulo2 {
+     width:100%;
+     height: 2ex;
+     background: #1dacd6;
+     position: fixed:top;
+
+}
